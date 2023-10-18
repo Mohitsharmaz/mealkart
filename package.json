@@ -1,0 +1,27 @@
+{
+  "name": "inception",
+  "version": "1.0.0",
+  "description": "Namaste react Mohit",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start":"parcel index.html",
+    "build":"parcel build index.html"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "mohit",
+    "bhardwaj"
+  ],
+  "author": "mohit sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  },
+  "browserslist":[
+    "last 2 Chrome Version"
+  ]
+}
+
